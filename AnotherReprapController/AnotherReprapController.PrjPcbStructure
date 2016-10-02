@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=ARC.SchDoc
+Record=SheetSymbol|SourceDocument=ARC.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MP1584_5V.SchDoc|SymbolType=Normal|RawFileName=MP1584_5V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=ARC.SchDoc|Designator=DRIVER_A|SchDesignator=DRIVER_A|FileName=StepperDriver.SchDoc|SymbolType=Normal|RawFileName=StepperDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=ARC.SchDoc|Designator=DRIVER_B|SchDesignator=DRIVER_B|FileName=StepperDriver.SchDoc|SymbolType=Normal|RawFileName=StepperDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=ARC.SchDoc|Designator=DRIVER_EX|SchDesignator=DRIVER_EX|FileName=StepperDriver.SchDoc|SymbolType=Normal|RawFileName=StepperDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
